@@ -1,4 +1,4 @@
-# Data Visualization and Dashboards with Excel and Cognos IBM
+# Data Visualization and Dashboards with Excel, Google Looker Studio and Cognos IBM
 
 ## Final Assignment - Part 1: Creating Visualizations Using Excel
 
